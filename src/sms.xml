@@ -1,0 +1,194 @@
+﻿<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<message>
+
+    <sms>
+
+        <address>
+15139300000
+        </address>
+
+        <date>
+1449123226494
+        </date>
+
+        <type>
+接收
+        </type>
+
+        <body>
+短信内容0
+        </body>
+    </sms>
+
+    <sms>
+
+        <address>
+15139300001
+        </address>
+
+        <date>
+1449123226495
+        </date>
+
+        <type>
+接收
+        </type>
+
+        <body>
+短信内容1
+        </body>
+    </sms>
+
+    <sms>
+
+        <address>
+15139300002
+        </address>
+
+        <date>
+1449123226495
+        </date>
+
+        <type>
+接收
+        </type>
+
+        <body>
+短信内容2
+        </body>
+    </sms>
+
+    <sms>
+
+        <address>
+15139300003
+        </address>
+
+        <date>
+1449123226495
+        </date>
+
+        <type>
+接收
+        </type>
+
+        <body>
+短信内容3
+        </body>
+    </sms>
+
+    <sms>
+
+        <address>
+15139300004
+        </address>
+
+        <date>
+1449123226495
+        </date>
+
+        <type>
+接收
+        </type>
+
+        <body>
+短信内容4
+        </body>
+    </sms>
+
+    <sms>
+
+        <address>
+15139300005
+        </address>
+
+        <date>
+1449123226495
+        </date>
+
+        <type>
+接收
+        </type>
+
+        <body>
+短信内容5
+        </body>
+    </sms>
+
+    <sms>
+
+        <address>
+15139300006
+        </address>
+
+        <date>
+1449123226495
+        </date>
+
+        <type>
+接收
+        </type>
+
+        <body>
+短信内容6
+        </body>
+    </sms>
+
+    <sms>
+
+        <address>
+15139300007
+        </address>
+
+        <date>
+1449123226496
+        </date>
+
+        <type>
+接收
+        </type>
+
+        <body>
+短信内容7
+        </body>
+    </sms>
+
+    <sms>
+
+        <address>
+15139300008
+        </address>
+
+        <date>
+1449123226496
+        </date>
+
+        <type>
+接收
+        </type>
+
+        <body>
+短信内容8
+        </body>
+    </sms>
+
+    <sms>
+
+        <address>
+15139300009
+        </address>
+
+        <date>
+1449123226496
+        </date>
+
+        <type>
+接收
+        </type>
+
+        <body>
+短信内容9
+        </body>
+    </sms>
+
+</message>
